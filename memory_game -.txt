@@ -1,4 +1,4 @@
-/*Created by Jeremy Wilson 
+/*Created by ksjlo
 
 Memory Game with Arduino
 
