@@ -2,8 +2,6 @@
 
 Memory Game with Arduino
 
-Modified by Rui Santos
-Visit: http://randomnerdtutorials.com
 */
 
 // Constants
